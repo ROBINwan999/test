@@ -1,4 +1,3 @@
-
 int main() {
-	return 666;
+	return 888;
 }
