@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "wdnmd\n";
+    cout << "666\n";
     return 0;
 }
