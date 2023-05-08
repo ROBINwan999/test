@@ -1,3 +1,3 @@
 git add .
-git commit -m "feat: add this and that" -m "this is this this and this which is very useful"
+git commit -m "doc: 1111" -m "add read me"
 git push -u origin master
