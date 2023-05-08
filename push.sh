@@ -1,3 +1,3 @@
 git add .
-git commit -m "others: this time push to aaaaa branch" -m "add read me"
-git push -u aaaaa houzi
+git commit -m "hehe: push gouzi to remote" -m "nothing buy everything"
+git push origin gouzi
