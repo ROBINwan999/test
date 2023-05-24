@@ -1,3 +1,3 @@
 git add .
-git commit -m "hehe: push gouzi to remote" -m "nothing buy everything"
-git push origin main
+git commit -m "hehe: push try to remote" -m "nothing buy everything"
+git push origin try
