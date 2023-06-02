@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/develop/build",
+  "command": "/usr/bin/g++   -g -g -Wall -std=gnu++23 -o CMakeFiles/myexe.dir/main.cpp.o -c /home/ubuntu/develop/cpp_test/main.cpp",
+  "file": "/home/ubuntu/develop/cpp_test/main.cpp"
+}
+]
